@@ -9,9 +9,13 @@ A step-by-step guide to building a comprehensive Power BI dashboard from scratch
 This tutorial aims to equip users with hands-on experience in Power BI, helping them to:
 
 1.Duplicate and manipulate data pages efficiently.
+
 2.Apply data transformations and cleansing for visualization.
+
 3.Create dynamic and visually appealing dashboards.
+
 4.Implement advanced DAX functions for custom calculations.
+
 5.Enhance dashboard interactivity with filters and slicers.
 
  # Zomato Sales Dashboard
