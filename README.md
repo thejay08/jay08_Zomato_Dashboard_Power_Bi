@@ -1,4 +1,4 @@
-Zomato_Dashboard_Power_Bi
+# Zomato_Dashboard_Power_Bi
 
 ![Company Logo](https://github.com/thejay08/jay08_Zomato_Dashboard_Power_Bi/blob/main/Zomato_Dashboard_Image_1.png)
 
@@ -14,7 +14,7 @@ This tutorial aims to equip users with hands-on experience in Power BI, helping 
 4.Implement advanced DAX functions for custom calculations.
 5.Enhance dashboard interactivity with filters and slicers.
 
-Zomato Sales Dashboard
+ # Zomato Sales Dashboard
 
 ![Company Logo](https://github.com/thejay08/jay08_Zomato_Dashboard_Power_Bi/blob/main/Zomato_Dashboard_Image_2.png)
 
@@ -33,7 +33,7 @@ Zomato Sales Dashboard
 •	Overall Rating: Average rating of 21.0K across all orders.
 
 
-Zomato Area Analysis Dashboard
+# Zomato Area Analysis Dashboard
 
 ![Company Logo](https://github.com/thejay08/jay08_Zomato_Dashboard_Power_Bi/blob/main/Zomato_Dashboard_Image_3.png)
 
@@ -52,7 +52,7 @@ Zomato Area Analysis Dashboard
 •	Top City: Tirupati, with 43M in sales.
 
 
-Zomato User Analysis Dashboard
+# Zomato User Analysis Dashboard
 
 ![Company Logo](https://github.com/thejay08/jay08_Zomato_Dashboard_Power_Bi/blob/main/Zomato_Dashboard_Image_4.png)
 
